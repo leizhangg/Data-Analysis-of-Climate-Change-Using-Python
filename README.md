@@ -18,6 +18,8 @@ In this project, we are trying to answer the following questions:
 * Predict the impact of food industry on climate change and provide recommendations by states/clusters of states to reduce or control climate change 
 
 **Data Content**
+
+d
 **Data Cleaning**
 
 **Data Analysis**
