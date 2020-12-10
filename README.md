@@ -1,10 +1,10 @@
 
 # 9650 Final Group Project
 
-### Team Memembers: 
+## Team Memembers: 
 Shilpa Paidighantom, Carmen Ruan, Mingma Sherpa, 
 Alexsandra Korzep, Katarzyna Borkowska, Lei Zhang
-### Topic: Climate Change
+## Topic: Climate Change
 ---
 **Problem Statement:**\
 In this project, we are trying to answer the following questions:
@@ -26,7 +26,19 @@ In this project, we are trying to answer the following questions:
 5. [Related Reference](#Related-Reference)
 
 #### Data Collection
+We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages.View all the data [here](#)\
 
+Targeted variables:
+* Deforestation
+* Fertilizer Use
+* Methane Emission
+* Population Growth
+* Fossile Fuels
+* Daily Temperatures
+* Meat Consumption
+* Food Wastage
+
+The data thus obtained, may not be structured and may contain irrelevant information. Hence, the collected data is required to be subjected to Data Processing and Data Cleaning.
 #### Data Processing
 
 #### Data Cleaning
