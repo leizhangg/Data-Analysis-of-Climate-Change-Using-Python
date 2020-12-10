@@ -22,4 +22,6 @@ In this project, we are trying to answer the following questions:
 **Data Analysis**
 
 
+
+
 ![global avg](img/image1.png)
