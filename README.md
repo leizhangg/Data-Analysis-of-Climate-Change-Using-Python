@@ -19,11 +19,11 @@ In this project, we are trying to answer the following questions:
 
 **Table of Content**
 
-1.[ Data Collection](#Data-Collection)
-2. Data Processing
-3. Data Cleaning
-4. Data Analysis
-5. Related Reference
+1. [Data Collection](#Data-Collection)
+2. [Data Processing](#Data-Processing)
+3. [Data Cleaning](#Data-Cleaning)
+4. [Data Analysis](#Data-Analysis)
+5. [Related Reference](#Related-Reference)
 
 #### Data Collection
 
@@ -32,6 +32,8 @@ In this project, we are trying to answer the following questions:
 #### Data Cleaning
 
 #### Data Analysis
+
+#### Related Reference
 
 
 
