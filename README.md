@@ -26,7 +26,7 @@ In this project, we are trying to answer the following questions:
 5. [Related Reference](#Related-Reference)
 
 #### Data Collection
-We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages.View all the data [here](#https://github.com/snowmeatball/9650_GroupProject/Data/readme.md)
+We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages. View all the data [here](https://github.com/snowmeatball/9650_GroupProject/Data/readme.md)
 
 Targeted variables:
 * Deforestation
