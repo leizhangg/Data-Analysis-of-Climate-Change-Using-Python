@@ -26,28 +26,79 @@ In this project, we are trying to answer the following questions:
 5. [Related Reference](#Related-Reference)
 
 #### Data Collection
-We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages. View all the data [here](https://github.com/snowmeatball/9650_GroupProject/Data/readme.md)
+We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages. View all the data [here](https://github.com/snowmeatball/9650_GroupProject/blob/main/Data/readme.md)
 
 Targeted variables:
-* Deforestation
-* Fertilizer Use
-* Methane Emission
-* Population Growth
-* Fossile Fuels
-* Daily Temperatures
-* Meat Consumption
-* Food Wastage
+* CO2 emission
+* Petroleum carbon emission
+* Natural gas carbon emission
+* Electricity carbon emission
+* Coal emission
+* Population
+* Natural gas consumption
+* Petroleum consumption
+* Coal consumption
+* Meat consumption
 
-The data thus obtained, may not be structured and may contain irrelevant information. Hence, the collected data is required to be subjected to Data Processing and Data Cleaning.
 #### Data Processing
+The data obtained, may not be structured and may contain irrelevant information. Hence, the collected data is required to be subjected to Data Processing and Data Cleaning.
+
+* Extracted data from 1990 to 2000 to the dataset we need. Here is an example how the data is processed:
+```
+raw data
+```
+![1990raw](img/1990raw.png)
+```
+new data
+```
+![1990new](img/1990new.png)
+
+
+* Methodology to calculate the contribution of the factors affecting the climate change:
+1. Segmentation: All the states in the US will be segmented for each year from 2010 to 2020 based on the evidence metrics such as 
+    * TMAX
+    * TMIN
+    * TAVG
+    * PRCP
+    * SNOW
+   
+ ```
+ Example of year 2020
+ ```
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/exOf2020.png"> 
+</p>
 
 #### Data Cleaning
+The processed and organized data may be incomplete, contain duplicates, or contain errors.
+To prevent errors, incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data had been removed within a dataset. 
+
+For example, the data below contains many columns with null values, which is incomplete and irrelevant to our topic, so those columns were removed.
+
+![cleandata](img/cleandata.png)
 
 #### Data Analysis
+Within the data, here is what we found:
+```
+Climate change is real. Both global average temperature(top graph)and North American average temperature 
+has increased by 1 degree in recent 20 years. It is beyong natural change. 
+```
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/image1.png"> 
+    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/NA_avg_tem.png"> 
+</p>
+
+```
+Analyzing hottest years by month, we see years >= 2000 among top 10. 7 out of 10 hottest years for January
+is after the year 2020. This further shows how fast climate change is happening in the recent 20 years. 
+```
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/hot_year_by_month.png"> 
+</p>
+
+
+
+
+
 
 #### Related Reference
-
-
-
-
-![global avg](img/image1.png)
