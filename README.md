@@ -17,8 +17,16 @@ In this project, we are trying to answer the following questions:
 * Build multivariate regression model to understand the drivers of climate change 
 * Predict the impact of food industry on climate change and provide recommendations by states/clusters of states to reduce or control climate change 
 
-**Data Content**
+**Table of content**
+1. Data Collection
+2. Data Processing
+3. Data Cleaning
+4. Data Analysis
+5. Related Reference
 
+**Data Collection** 
+
+**Data Processing**
 
 **Data Cleaning**
 
