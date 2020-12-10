@@ -19,7 +19,7 @@ In this project, we are trying to answer the following questions:
 
 **Table of Content**
 
-1. Data Collection [](#Data-Collection)
+1.[ Data Collection](#Data-Collection)
 2. Data Processing
 3. Data Cleaning
 4. Data Analysis
