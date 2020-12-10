@@ -19,7 +19,7 @@ In this project, we are trying to answer the following questions:
 
 **Data Content**
 
-d
+
 **Data Cleaning**
 
 **Data Analysis**
