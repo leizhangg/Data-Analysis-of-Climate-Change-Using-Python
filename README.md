@@ -135,3 +135,5 @@ on climate changes than other factors such polulation, meat comsumption.
 * [Human Population Growth and Climate Change](https://www.biologicaldiversity.org/programs/population_and_sustainability/climate/)
 * [Sources of Greenhouse Gas Emissions](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)
 * [Global Climate Change: What You Need to Know](https://www.nrdc.org/stories/global-climate-change-what-you-need-know)
+* [Overview: Weather, Global Warming and Climate Change](https://climate.nasa.gov/resources/global-warming-vs-climate-change/)
+* [Climate Change Datasets](https://github.com/adventuroussrv/Climate-Change-Datasets)
