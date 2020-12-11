@@ -98,8 +98,8 @@ For example, the data below contains many columns with null values, which is inc
 #### Data Analysis
 Within the data, here is what we found:
 ```
-Climate change is real. Both global average temperature(top graph)and North American average temperature 
-has increased by 1 degree in recent 20 years. It is beyong natural change. 
+Climate change is real. Both global average temperature(top graph)and North American average 
+temperature has increased by 1 degree in recent 20 years. It is beyong natural change. 
 ```
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/image1.png"> 
@@ -107,16 +107,17 @@ has increased by 1 degree in recent 20 years. It is beyong natural change.
 </p>
 
 ```
-Analyzing hottest years by month, we see years >= 2000 among top 10. 7 out of 10 hottest years for January
-is after the year 2020. This further shows how fast climate change is happening in the recent 20 years. 
+Analyzing hottest years by month, we see years >= 2000 among top 10. 7 out of 10 hottest years 
+for January is after the year 2020. This further shows how fast climate change is happening in 
+the recent 20 years. 
 ```
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/hot_year_by_month.png"> 
 </p>
 
 ```
-CO2 emission, petroleum emission,gas emission, coal emission and electricity emission has more influence 
-on climate changes than other factors such polulation, meat comsumption.
+CO2 emission, petroleum emission,gas emission, coal emission and electricity emission has more
+influence on climate changes than other factors such polulation, meat comsumption.
 ```
 <p align="center" width="100%">
     <img width="70%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/factor.png"> 
