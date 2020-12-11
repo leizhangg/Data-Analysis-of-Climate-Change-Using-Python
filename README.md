@@ -18,12 +18,16 @@ In this project, we are trying to answer the following questions:
 * Predict the impact of food industry on climate change and provide recommendations by states/clusters of states to reduce or control climate change 
 
 **Table of Content**
+1. [Introduction](#Introduction)
+2. [Data Collection](#Data-Collection)
+3. [Data Processing](#Data-Processing)
+4. [Data Cleaning](#Data-Cleaning)
+5. [Data Analysis](#Data-Analysis)
+6. [Related Reference](#Related-Reference)
 
-1. [Data Collection](#Data-Collection)
-2. [Data Processing](#Data-Processing)
-3. [Data Cleaning](#Data-Cleaning)
-4. [Data Analysis](#Data-Analysis)
-5. [Related Reference](#Related-Reference)
+#### Introduction
+Climate change has been occurring due to several reasons. Some variables we are analyzing for this project are CO2 emissions, electricity emissions, population, meat consumption, etc. As we analyze these variables, we want to find out which variables are more important to the contribution of climate change. There are several articles that support the reason for the variables we chose. These variables have been affecting the climate over time. CO2 emissions increase the temperature of the Earth. Human activities have influenced the change in the global water cycle, sea level and reduction in snow and ice. Meat consumption is also affecting the climate. As farms are needed to raise animals, people are cutting down trees and forests to clear the land and get more space. These farms produce huge amounts of greenhouse gases. Population increase has led to an increase in greenhouse gases. There will be an increase activity of burning fossil fuels and each person will contribute to producing carbon emissions.  Electricity emissions have also contributed to CO2 emissions as combustion of fossil fuels are needed to generate heat for vehicles. All of these variables have been causing complications in the Earth’s climate and it has been increasing significantly. We hope our analysis can justify the facts about climate change.
+
 
 #### Data Collection
 We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages. View all the data [here](https://github.com/snowmeatball/9650_GroupProject/blob/main/Data/readme.md)
@@ -115,14 +119,19 @@ CO2 emission, petroleum emission,gas emission, coal emission and electricity emi
 on climate changes than other factors such polulation, meat comsumption.
 ```
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/factor.png"> 
+    <img width="70%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/factor.png"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression1.png"> 
-    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression2.png"> 
+    <img width="60%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression1.png"> 
+    <img width="60%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression2.png"> 
 </p>
 
 
 
 #### Related Reference
+* [Energy and the environment explained Greenhouse gases and the climate](https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases-and-the-climate.php)
+* [Eat less meat: UN climate-change report calls for change to human diet](https://www.nature.com/articles/d41586-019-02409-7)
+* [Human Population Growth and Climate Change](https://www.biologicaldiversity.org/programs/population_and_sustainability/climate/)
+* [Sources of Greenhouse Gas Emissions](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)
+* [Global Climate Change: What You Need to Know](https://www.nrdc.org/stories/global-climate-change-what-you-need-know)
