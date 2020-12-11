@@ -9,13 +9,13 @@ Alexsandra Korzep, Katarzyna Borkowska, Lei Zhang
 **Problem Statement:**\
 In this project, we are trying to answer the following questions:
 * What are the key influencing factors of climate change in United States.
-* How Meat Consumption, Food wastage are contributing to it?
-* What will be the trend in next years?
+* How are those factors contributing to it?
+* What will be the impact in next years?
 
 **Objectives:**
-* Perform factor analysis (PCA) to create climate change metric. Alternatively, climate change metric can be defined on one variable alone (such as daily average temperature)
+* A K-means clustering will be performed based on evidence variables (dependent variables) such as TMAX, TMIN, TAVG, SNOW and PRCP. Derived variables such as max, min and         average of these variables are calculated. Also, ‘Year Over Year Change’ variable defined as ‘max-min’ are calculated.  
 * Build multivariate regression model to understand the drivers of climate change 
-* Predict the impact of food industry on climate change and provide recommendations by states/clusters of states to reduce or control climate change 
+
 
 **Table of Content**
 1. [Introduction](#Introduction)
