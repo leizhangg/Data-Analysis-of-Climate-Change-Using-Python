@@ -56,18 +56,29 @@ new data
 
 * Methodology to calculate the contribution of the factors affecting the climate change:
 1. Segmentation: All the states in the US will be segmented for each year from 2010 to 2020 based on the evidence metrics such as 
-    * TMAX
-    * TMIN
-    * TAVG
-    * PRCP
-    * SNOW
+    * PRCP_max_yoy: Maximum precipitation on a particular day between 2010 to 2019 - Maximum precipitation on a particular day between 2000 to 2009
+    * SNOW_max_yoy: Maximum snowfall on a particular day between 2010 to 2019 - Maximum snowfall on a particular day between 2000 to 2009
+    * TMAX_max_yoy: Maximum temperature on a particular day between 2010 to 2019 - Maximum temperature on a particular day between 2000 to 2009
+    * Maximum temperature on a particular day between 2020 to 2010 - Maximum temperature on a particular day between 2000 to 2009
+
    
+   Results from each year will be analyzed to create clusters to define ‘Good’/‘Average’/‘Bad’ states based on climate change. Total of 10+ such  segmentations will be performed to further segment the states as 
+    * States showing high climate change
+    * States showing no climate change
+    * States improving from ‘Bad’ to ‘Good’
+    * States worsening from ‘Good’ to ‘Bad’
+
  ```
- Example of year 2020
+ Example data of year 2020
  ```
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/exOf2020.png"> 
 </p>
+
+2. Regression model:  individual regression models are built on each of the clusters to understand the factors(targeted varibales) driving climate change. 
+   The model is built from 1990 – 2019. Variables which did not have the time period. The metrics are calculated at state yearly level.
+   The log transformation is taken on the variables to build the model. The models are often referred as log-log models as the transformation is taken on both independent and dependent variable. OLS estimation methodology is used, can improve the model efficiency with few more iterations. 
+
 
 #### Data Cleaning
 The processed and organized data may be incomplete, contain duplicates, or contain errors.
@@ -96,8 +107,12 @@ is after the year 2020. This further shows how fast climate change is happening 
     <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/hot_year_by_month.png"> 
 </p>
 
-
-
+```
+CO2 emission, petroleum emission,gas emission, coal emission and electricity emission has more influence on climate changes than other factors.
+```
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/factor.png"> 
+</p>
 
 
 
