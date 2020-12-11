@@ -86,7 +86,10 @@ To prevent errors, incorrect, corrupted, incorrectly formatted, duplicate, or in
 
 For example, the data below contains many columns with null values, which is incomplete and irrelevant to our topic, so those columns were removed.
 
-![cleandata](img/cleandata.png)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/cleandata.png"> 
+</p>
+
 
 #### Data Analysis
 Within the data, here is what we found:
@@ -108,10 +111,16 @@ is after the year 2020. This further shows how fast climate change is happening 
 </p>
 
 ```
-CO2 emission, petroleum emission,gas emission, coal emission and electricity emission has more influence on climate changes than other factors.
+CO2 emission, petroleum emission,gas emission, coal emission and electricity emission has more influence 
+on climate changes than other factors such polulation, meat comsumption.
 ```
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/factor.png"> 
+</p>
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression1.png"> 
+    <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression2.png"> 
 </p>
 
 
