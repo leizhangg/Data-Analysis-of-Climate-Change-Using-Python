@@ -98,8 +98,8 @@ For example, the data below contains many columns with null values, which is inc
 #### Data Analysis
 Within the data, here is what we found:
 ```
-Climate change is real. Both global average temperature(top graph)and North American average 
-temperature has increased by 1 degree in recent 20 years. It is beyong natural change. 
+Climate change is real. Both global average temperature(top graph)and North American average temperature 
+has increased by 1 degree in recent 20 years. It is beyong natural change. 
 ```
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/image1.png"> 
