@@ -38,3 +38,8 @@ This training data is used to extrapolate/predict the values which don't have a 
 
 To plot the predicted values as a scatter plot, the matplotlib library along with the “scatter” function is used
 In this case, our x value or the first column is the "year” column and the y value is the emission value for every resource or the second column
+
+==========================================================================================================================================
+Sources:
+https://www.eia.gov/environment/emissions/state/
+https://www.epa.gov/
