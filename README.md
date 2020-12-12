@@ -60,10 +60,11 @@ new data
 
 * Methodology to calculate the contribution of the factors affecting the climate change:
 1. Segmentation: All the states in the US will be segmented for each year from 2010 to 2020 based on the evidence metrics such as 
-    * PRCP_max_yoy: Maximum precipitation on a particular day between 2010 to 2019 - Maximum precipitation on a particular day between 2000 to 2009
-    * SNOW_max_yoy: Maximum snowfall on a particular day between 2010 to 2019 - Maximum snowfall on a particular day between 2000 to 2009
+    * PRCP_max: Maximum precipitation on a particular day between 2010 to 2019 
+    * SNOW_max: Maximum snowfall on a particular day between 2010 to 2019 
     * TMAX_max_yoy: Maximum temperature on a particular day between 2010 to 2019 - Maximum temperature on a particular day between 2000 to 2009
-    * Maximum temperature on a particular day between 2020 to 2010 - Maximum temperature on a particular day between 2000 to 2009
+    * TMIN_min_yoy: Minimum temperature on a particular day between 2010 to 2019 - Minimum temperature on a particular day between 2000 to 2009
+    * TAVG_AVG_yoy: Average temperature on a particular day between 2010 to 2019 - Average temperature on a particular day between 2000 to 2009
 
 
  ```
@@ -121,7 +122,15 @@ on climate changes than other factors such polulation, meat comsumption.
     <img width="60%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression2.png"> 
 </p>
 
+#### Data Sources
+* [Daily level Temeprature data 1990 - 2020](ftp://ftp.ncdc.noaa.gov/pub/data/cdo/samples/GHCND_sample_pdf.pdf)
+* [Global and NA Average Temeprature change Yearly for Evidence](http://berkeleyearth.lbl.gov/auto/Global/Complete_TAVG_complete.txt)
+* [CO2 emission](https://ourworldindata.org/co2/country/united-states?country=~USA)
+* [Meat Consumption](https://data.ers.usda.gov/reports.aspx?ID=17832#Pd8813db36791451aa19023aefc4bf02d_2_17iT0R0x0)
+* [Collated Data](https://github.com/snowmeatball/9650_GroupProject/tree/main/Data)
 
+#### Python Libraries Used
+*
 
 #### Related Reference
 * [Energy and the environment explained Greenhouse gases and the climate](https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases-and-the-climate.php)
