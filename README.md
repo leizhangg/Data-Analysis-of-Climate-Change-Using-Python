@@ -23,7 +23,7 @@ In this project, we are trying to answer the following questions:
 3. [Data Processing](#Data-Processing)
 4. [Data Cleaning](#Data-Cleaning)
 5. [Data Analysis](#Data-Analysis)
-6. [Python Libraries](#Python Libraries Used)
+6. [Python Libraries](#Python-Libraries-Used)
 6. [Related Reference](#Related-Reference)
 
 #### Introduction
