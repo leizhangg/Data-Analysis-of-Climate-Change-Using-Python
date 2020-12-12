@@ -1,3 +1,6 @@
+AK_Code_Combined_Energy-Related CO2 Emissions and Electricity Consumption py file contains codes to run analysis on electrcity consumption, electrcity predictions, 
+energy-related CO2 emissions and energy-related CO2 emission predictions
+
 Steps to run the 'AK_Code_Combined_Energy-Related CO2 Emissions and Electricity Consumption' python code:
 
 1. Create a folder that you will save this python file and cvs files in. All files need to be saved in the same folder.
