@@ -123,7 +123,7 @@ on climate changes than other factors such polulation, meat comsumption.
 </p>
 
 #### Data Sources
-* [Daily level Temeprature data 1990 - 2020](ftp://ftp.ncdc.noaa.gov/pub/data/cdo/samples/GHCND_sample_pdf.pdf)
+* [Daily level Temeprature data 1990 - 2020](ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/)
 * [Global and NA Average Temeprature change Yearly for Evidence](http://berkeleyearth.lbl.gov/auto/Global/Complete_TAVG_complete.txt)
 * [CO2 emission](https://ourworldindata.org/co2/country/united-states?country=~USA)
 * [Meat Consumption](https://data.ers.usda.gov/reports.aspx?ID=17832#Pd8813db36791451aa19023aefc4bf02d_2_17iT0R0x0)
