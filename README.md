@@ -13,8 +13,8 @@ In this project, we are trying to answer the following questions:
 * What will be the impact in next years?
 
 **Objectives:**
-* A K-means clustering will be performed based on evidence variables (dependent variables) such as TMAX, TMIN, TAVG, SNOW and PRCP. Derived variables such as max, min and         average of these variables are calculated. Also, ‘Year Over Year Change’ variable defined as ‘max-min’ are calculated.  
-* Build multivariate regression model to understand the drivers of climate change 
+* A K-means clustering will be performed based on evidence variables (dependent variables) such as TMAX, TMIN, TAVG, SNOW and PRCP. Derived variables such as max, min and         average of these variables are calculated. Also, ‘Year Over Year Change’ variable defined as 2010-2019 average over 2000-2009 average.
+* Build multivariate log log regression model to understand the drivers of climate change by clusters identified. 
 
 
 **Table of Content**
@@ -30,7 +30,7 @@ Climate change has been occurring due to several reasons. Some variables we are 
 
 
 #### Data Collection
-We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages. View all the data [here](https://github.com/snowmeatball/9650_GroupProject/blob/main/Data/readme.md)
+We gathered information on targeted variables identified as data requirements. All data is collected from various sources ranging from organizational databases to the information in web pages. View all the data [here](https://github.com/snowmeatball/9650_GroupProject/tree/main/Data)
 
 Targeted variables:
 * CO2 emission
@@ -65,12 +65,6 @@ new data
     * TMAX_max_yoy: Maximum temperature on a particular day between 2010 to 2019 - Maximum temperature on a particular day between 2000 to 2009
     * Maximum temperature on a particular day between 2020 to 2010 - Maximum temperature on a particular day between 2000 to 2009
 
-   
-   Results from each year will be analyzed to create clusters to define ‘Good’/‘Average’/‘Bad’ states based on climate change. Total of 10+ such  segmentations will be performed to further segment the states as 
-    * States showing high climate change
-    * States showing no climate change
-    * States improving from ‘Bad’ to ‘Good’
-    * States worsening from ‘Good’ to ‘Bad’
 
  ```
  Example data of year 2020
