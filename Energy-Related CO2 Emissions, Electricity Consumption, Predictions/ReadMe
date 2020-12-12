@@ -6,6 +6,19 @@ Steps to run the 'AK_Code_Combined_Energy-Related CO2 Emissions and Electricity 
 3. You can run this python file in Spyder or any IDE that supports python codes. If you are using Spyder, open the python file to run it.
 4. All you need to do is run the code and it will perform all the analysis using the csv files that you previously saved.
 5. Analysis and graphs will be displayed in the console.
+===========================================================================================================================================
+Machine learning is teaching the machine to learn from the data. When I say “to learn from data”, I mean, not just understanding the patterns in data, 
+but extracting insights from it. These insights further help in making predictions.
+
+Linear regression is a supervised machine learning algorithm. That is the reason why our data has at least two columns where one column maps to the other. 
+This means the second column tells the exact values that need to be mapped to first column.
+
+How does a child learn to speak? The parents teach letters, then words. Then the child learns to form 2 words and then whole sentences ... this is like supervised learning. 
+The parent is the supervising agent to the child. The child can be understood as the model that learns
+
+Also, when the child is learning, it makes mistakes and learns right? 
+This part can be understood as the “optimization” technique used in machine learning. 
+Optimization techniques involves gradient descent, hyper parameter tuning and so on.
 
 ===========================================================================================================================================
 Electricity consumption
