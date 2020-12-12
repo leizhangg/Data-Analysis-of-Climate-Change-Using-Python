@@ -44,6 +44,14 @@ Targeted variables:
 * Coal consumption
 * Meat consumption
 
+  ##### Data Sources
+
+* [Daily level Temeprature data 1990 - 2020](ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/)
+* [Global and NA Average Temeprature change Yearly for Evidence](http://berkeleyearth.lbl.gov/auto/Global/Complete_TAVG_complete.txt)
+* [CO2 Emission](https://ourworldindata.org/co2/country/united-states?country=~USA)
+* [Meat Consumption](https://data.ers.usda.gov/reports.aspx?ID=17832#Pd8813db36791451aa19023aefc4bf02d_2_17iT0R0x0)
+* [Collated Data](https://github.com/snowmeatball/9650_GroupProject/tree/main/Data)
+
 #### Data Processing
 The data obtained, may not be structured and may contain irrelevant information. Hence, the collected data is required to be subjected to Data Processing and Data Cleaning.
 
@@ -122,12 +130,7 @@ on climate changes than other factors such polulation, meat comsumption.
     <img width="60%" src="https://github.com/snowmeatball/9650_GroupProject/blob/main/img/regression2.png"> 
 </p>
 
-#### Data Sources
-* [Daily level Temeprature data 1990 - 2020](ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/)
-* [Global and NA Average Temeprature change Yearly for Evidence](http://berkeleyearth.lbl.gov/auto/Global/Complete_TAVG_complete.txt)
-* [CO2 emission](https://ourworldindata.org/co2/country/united-states?country=~USA)
-* [Meat Consumption](https://data.ers.usda.gov/reports.aspx?ID=17832#Pd8813db36791451aa19023aefc4bf02d_2_17iT0R0x0)
-* [Collated Data](https://github.com/snowmeatball/9650_GroupProject/tree/main/Data)
+
 
 #### Python Libraries Used
 * import numpy 
