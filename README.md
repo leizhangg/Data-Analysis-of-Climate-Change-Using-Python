@@ -130,7 +130,23 @@ on climate changes than other factors such polulation, meat comsumption.
 * [Collated Data](https://github.com/snowmeatball/9650_GroupProject/tree/main/Data)
 
 #### Python Libraries Used
-*
+*import numpy 
+*import csv
+*import pandas 
+*import warnings
+*import sklearn
+*import os
+*import matplotlib.pyplot as plt
+*import seaborn as sns; sns.set()  
+*import statsmodels.api 
+*import from pylab
+
+Specific packages - 
+*from sklearn.preprocessing import StandardScaler
+*from scipy import stats
+*from sklearn.cluster import KMeans
+*from string import ascii_letters
+
 
 #### Related Reference
 * [Energy and the environment explained Greenhouse gases and the climate](https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases-and-the-climate.php)
