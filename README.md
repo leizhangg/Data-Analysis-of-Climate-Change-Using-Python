@@ -3,8 +3,10 @@
 
 ## Team Memembers: 
 Shilpa Paidighantom, Carmen Ruan, Mingma Sherpa, 
-Alexsandra Korzep, Katarzyna Borkowska, Lei Zhang
-## Topic: Climate Change
+
+Aleksandra Korzep, Katarzyna Borkowska, Lei Zhang
+### Topic: Climate Change
+
 ---
 **Problem Statement:**\
 In this project, we are trying to answer the following questions:
