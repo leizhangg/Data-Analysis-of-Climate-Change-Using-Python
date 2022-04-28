@@ -1,5 +1,5 @@
 
-# 9650 Final Group Project
+# Group Project
 
 ## Team Memembers: 
 Shilpa Paidighantom, Carmen Ruan, Mingma Sherpa, 
